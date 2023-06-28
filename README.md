@@ -1,9 +1,9 @@
 # TETRIS-Game
 
-##Tetris Game
+## Tetris Game
 A simple Tetris game created using Python and Pygame.
 
-##Controls
+## Controls
   * Move left: <LEFT_ARROW_KEY>
   * Move right: <RIGHT_ARROW_KEY>
   * Rotate piece: <UP_ARROW_KEY>
@@ -12,7 +12,14 @@ A simple Tetris game created using Python and Pygame.
   * Pause game: <ESCAPE_KEY>
   * Select option: <Return_KEY>
 
-##Features
+## Features
   * Classic Tetris gameplay.
   * Different levels of difficulty.
   * Score tracking.
+
+## Acknowledgements
+  * Pygame Module
+  * Random Library
+    
+## License
+This project is licensed under the MIT License.
